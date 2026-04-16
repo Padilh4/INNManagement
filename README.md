@@ -22,7 +22,8 @@ Java 25 + JDBC + Mysql
 ## Execution
 Open the project in NetBeans and execute: Main.java
 
-##
+---
+
 ## Portuguese
 
 ## Sistema de Gestão de Pousada - JDBC
