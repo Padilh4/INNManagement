@@ -1,4 +1,3 @@
-## README.md 
 
 # System of INN management - JDBC 
 Project developed to practice: - Java interlinked with Mysql - JDBC (Java Database Connectivity) 
@@ -8,7 +7,7 @@ Project developed to practice: - Java interlinked with Mysql - JDBC (Java Databa
 * Table reading
 * Table Updates
 * Canceling of reservations
-
+* Export tables to spreadsheet
 ## Tecnologies
 Java 25 + JDBC + Mysql 
 
@@ -22,6 +21,7 @@ Java 25 + JDBC + Mysql
 
 ## Execution
 Open the project in NetBeans and execute: Main.java
+
 ##
 ## Portuguese
 
@@ -34,6 +34,7 @@ Projeto desenvolvido para praticar: - Java interligado com Mysql - JDBC (Java Da
 * Listagem de tabelas
 * Atualização de tabelas
 * Cancelamento de reservas
+* Exportação de tabelas para planilhas
 
 ## Tecnologias
 Java 25 + JDBC + Mysql
